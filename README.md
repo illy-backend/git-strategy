@@ -1,5 +1,5 @@
 # git-strategy
-
+```
 gitGraph:
 	commit
 
@@ -47,3 +47,4 @@ gitGraph:
 
 	checkout main
 	commit
+```
